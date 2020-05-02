@@ -33,7 +33,7 @@
             style="@style/TextAppearance.AppCompat.Title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="4dp"
             android:text="Deep link with Navigation"
             android:textColor="@color/colorPrimary"
             app:layout_constraintEnd_toEndOf="parent"
